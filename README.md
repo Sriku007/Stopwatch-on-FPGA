@@ -3,10 +3,10 @@ Implementation of a Stopwatch on Basys FPGA
 
 Members: P.SURYA SRIKAR, KARTIKAEYA KUMAR, D.SAI CHETHAN
 
-STOPWATCH CONTROLLER
+STOPWATCH CONTROLLER:
 The objective of this project is to design digital logic for general purpose stopwatch and implement it on FPGA .
 
-OVERVIEW
+OVERVIEW:
 A 4 digit 7segment display is used for the output , 16 slide switches are used to load the data , and 2 push button switches are used to give the following command :
 
 load ( push button switch 1 )
